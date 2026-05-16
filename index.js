@@ -12,6 +12,6 @@ button.addEventListener("click",()=>{
    if(nom.value=="" || email.value=="" || password.value==""){
     alert("Veuillez remplir tous les champs");
    } else{
-    alert("Bienvenue "+ "nom : "+nom.value + " email: "+email.value + " password: "+password.value);
+    alert("Bienvenue "+ "nom : "+nom.value + " email: "+email.value);
    }        
 });
