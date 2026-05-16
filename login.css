@@ -13,7 +13,6 @@ body {
     justify-content: center;
     align-items: center;
     background: linear-gradient(135deg, #74ebd5 0%, #9face6 100%);
-    gap: 60px; /* Espace entre les éléments s'il y en a plusieurs */
 }
 
 h1 {
